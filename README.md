@@ -1,6 +1,4 @@
-# Mr-michael-dev.github.io
-# This repo is designed to view my project as a web page.
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <title>Register here</title>
